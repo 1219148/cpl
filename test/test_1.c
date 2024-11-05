@@ -7,8 +7,7 @@
 
 
 int main() {
-    int a=-5/2;
-    printf("%d",a);
+    printf("hello world\n");
     return 0;
     return 0;
 

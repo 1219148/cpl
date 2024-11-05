@@ -5,5 +5,7 @@
 int main(){
      double number=0.6500000;
      printf("%.5e",number);
+     printf("%.5e",number);
+     printf("%.5e",number);
      return 0;
 }
